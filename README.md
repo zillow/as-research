@@ -73,6 +73,10 @@ Klevak, E., Lin, S., Martin, A., Linda, O., & Ringger, E. (2020). Out-Of-Bag Ano
 Ringger, E., Chang, A., Fagnan, D., Kamath, S., Linda, O., Liu, W., ... & Zeghmi, T. (2018). Finding Your Home: Large-Scale Recommendation in a Vibrant Marketplace. ComplexRec 2018, 13. [[Paper]](http://toinebogers.com/workshops/complexrec2018/resources/proceedings.pdf#page=13)
 
 ## Blog Posts
+[Helping Home Shoppers Find a Home to Love Through Home Insights](https://www.zillow.com/tech/helping-shoppers-find-a-home-using-home-insights/)
+
+[Optimizing Elasticsearch for Low Latency, Real-Time Recommendations](https://www.zillow.com/tech/optimizing-elasticsearch/)
+
 [Improving Recommendation Quality by Tapping into Listing Text](https://www.zillow.com/tech/improve-quality-listing-text/)
 
 [Utilizing both Explicit & Implicit Signals to Power Home Recommendations](https://www.zillow.com/tech/utilizing-both-explicit-implicit-signals/)
