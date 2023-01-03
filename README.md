@@ -3,9 +3,9 @@ Zillow applied science teams are actively publishing their work. The areas of in
 
 # Computer Vision
 ## Datasets
-Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3d room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2133-2143). [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
+Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3D room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
 ## Featured Publications
-Lambert, J., Li, Y. Boyadzhiev, I., Wixson, L., Narayana, M., Hutchcroft, W., Hays, J., Dellaert, F., & Kang, S.B. (2022). SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas. European Conference on Computer Vision (ECCV), 2022.
+Lambert, J., Li, Y. Boyadzhiev, I., Wixson, L., Narayana, M., Hutchcroft, W., Hays, J., Dellaert, F., & Kang, S.B. (2022). SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas. European Conference on Computer Vision (ECCV).
 
 Hutchcroft, W., Li, Y., Boyadzhiev, I., Wan, Z., Wang, H., & Kang, S.B. (2022). CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas. European Conference on Computer Vision (ECCV).
 
