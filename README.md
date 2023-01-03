@@ -5,25 +5,25 @@ Zillow applied science teams are actively publishing their work. The areas of in
 ## Datasets
 Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3d room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2133-2143). [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
 ## Featured Publications
-Lambert, J., Li, Y. Boyadzhiev, I., Wixson, L., Narayana, M., Hutchcroft, W., Hays, J., Dellaert, F., & Kang, S.B. (2022). SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas. European Conference on Computer Vision (ECCV), October 2022 (to appear).
+Lambert, J., Li, Y. Boyadzhiev, I., Wixson, L., Narayana, M., Hutchcroft, W., Hays, J., Dellaert, F., & Kang, S.B. (2022). SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas. European Conference on Computer Vision (ECCV), 2022.
 
-Hutchcroft, W., Li, Y., Boyadzhiev, I., Wan, Z., Wang, H., & Kang, S.B. (2022). CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas. European Conference on Computer Vision (ECCV), October 2022 (to appear).
+Hutchcroft, W., Li, Y., Boyadzhiev, I., Wan, Z., Wang, H., & Kang, S.B. (2022). CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas. European Conference on Computer Vision (ECCV).
 
-Zhi, T., Chen, B., Boyadzhiev, I., Kang, S. B., Hebert, M., & Narasimhan, S. G. (2022). Semantically Supervised Appearance Decomposition for Virtual Staging from a Single Panorama. ACM TOG and SIGGRAPH, 2022 (to appear). [[Paper]](https://arxiv.org/abs/2205.13150) [[Code]](https://github.com/tiancheng-zhi/pano_decomp)
+Zhi, T., Chen, B., Boyadzhiev, I., Kang, S. B., Hebert, M., & Narasimhan, S. G. (2022). Semantically Supervised Appearance Decomposition for Virtual Staging from a Single Panorama. ACM TOG and SIGGRAPH. [[Paper]](https://arxiv.org/abs/2205.13150) [[Code]](https://github.com/tiancheng-zhi/pano_decomp)
 
-Yin, Y., Hutchcroft, W., Khosravan, N., Boyadzhiev, I., Fu, Y., & Kang, S. B. (2022). Generating Topological Structure of Floorplans from Room Attributes. ACM International Conference on Multimedia Retrieval (ICMR), 2022. [[Paper]](https://arxiv.org/pdf/2204.12338.pdf) [Code - Coming Soon]
+Yin, Y., Hutchcroft, W., Khosravan, N., Boyadzhiev, I., Fu, Y., & Kang, S. B. (2022). Generating Topological Structure of Floorplans from Room Attributes. ACM International Conference on Multimedia Retrieval (ICMR). [[Paper]](https://arxiv.org/pdf/2204.12338.pdf) [Code - Coming Soon]
 
-Min, Z., Khosravan, N., Bessinger, Z., Narayana, M., Kang, S. B., Dunn, E., & Boyadzhiev, I. (2022). LASER: LAtent SpacE Rendering for 2D Visual Localization. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (Oral). [[Paper]](https://arxiv.org/abs/2204.00157) [[Code]](https://github.com/zillow/laser)
+Min, Z., Khosravan, N., Bessinger, Z., Narayana, M., Kang, S. B., Dunn, E., & Boyadzhiev, I. (2022). LASER: LAtent SpacE Rendering for 2D Visual Localization. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (Oral). [[Paper]](https://arxiv.org/abs/2204.00157) [[Code]](https://github.com/zillow/laser)
 
-Wang, H., Hutchcroft, W., Li, Y., Wan, Z., Boyadzhiev, I., Tian, Y., & Kang, S. B. (2022). PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. [[Paper]](https://arxiv.org/abs/2203.15965) [Code - Coming Soon]
+Wang, H., Hutchcroft, W., Li, Y., Wan, Z., Boyadzhiev, I., Tian, Y., & Kang, S. B. (2022). PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://arxiv.org/abs/2203.15965) [Code - Coming Soon]
 
-Eder, M., Moulon, P., & Guan, L. (2019, September). Pano popups: Indoor 3d reconstruction with a plane-aware network. In 2019 International Conference on 3D Vision (3DV) (pp. 76-84). IEEE. [[Paper]](https://arxiv.org/pdf/1907.00939.pdf?ref=https://githubhelp.com)
+Eder, M., Moulon, P., & Guan, L. (2019). Pano popups: Indoor 3D reconstruction with a plane-aware network. IEEE International Conference on 3D Vision (3DV). [[Paper]](https://arxiv.org/pdf/1907.00939.pdf?ref=https://githubhelp.com)
 
-Zou, C., Colburn, A., Shan, Q., & Hoiem, D. (2018). Layoutnet: Reconstructing the 3d room layout from a single rgb image. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2051-2059). [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zou_LayoutNet_Reconstructing_the_CVPR_2018_paper.pdf) [[Code]](https://github.com/zouchuhang/LayoutNet)
+Zou, C., Colburn, A., Shan, Q., & Hoiem, D. (2018). Layoutnet: Reconstructing the 3d room layout from a single rgb image. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zou_LayoutNet_Reconstructing_the_CVPR_2018_paper.pdf) [[Code]](https://github.com/zouchuhang/LayoutNet)
 
-Yan, H., Shan, Q., & Furukawa, Y. (2018). RIDI: Robust IMU double integration. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 621-636). [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hang_Yan_RIDI_Robust_IMU_ECCV_2018_paper.pdf) [[Code]](https://yanhangpublic.github.io/ridi/)
+Yan, H., Shan, Q., & Furukawa, Y. (2018). RIDI: Robust IMU double integration. In Proceedings of the European Conference on Computer Vision (ECCV). [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hang_Yan_RIDI_Robust_IMU_ECCV_2018_paper.pdf) [[Code]](https://yanhangpublic.github.io/ridi/)
 
-Izadinia, H., Shan, Q., & Seitz, S. M. (2017). Im2cad. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 5134-5143) 2017. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Izadinia_IM2CAD_CVPR_2017_paper.pdf)
+Izadinia, H., Shan, Q., & Seitz, S. M. (2017). Im2cad. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Izadinia_IM2CAD_CVPR_2017_paper.pdf)
 
 ## Technical Reports
 Ikehata, S., Boyadzhiev, I., Shan, Q., & Furukawa, Y. (2016). Panoramic structure from motion via geometric relationship detection. arXiv preprint arXiv:1612.01256. [[Report]](https://arxiv.org/abs/1612.01256)
