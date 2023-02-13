@@ -15,7 +15,7 @@ Yin, Y., Hutchcroft, W., Khosravan, N., Boyadzhiev, I., Fu, Y., & Kang, S. B. (2
 
 Min, Z., Khosravan, N., Bessinger, Z., Narayana, M., Kang, S. B., Dunn, E., & Boyadzhiev, I. (2022). LASER: LAtent SpacE Rendering for 2D Visual Localization. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (Oral). [[Paper]](https://arxiv.org/abs/2204.00157) [[Code]](https://github.com/zillow/laser)
 
-Wang, H., Hutchcroft, W., Li, Y., Wan, Z., Boyadzhiev, I., Tian, Y., & Kang, S. B. (2022). PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://arxiv.org/abs/2203.15965) [Code - Coming Soon]
+Wang, H., Hutchcroft, W., Li, Y., Wan, Z., Boyadzhiev, I., Tian, Y., & Kang, S. B. (2022). PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://arxiv.org/abs/2203.15965) [[Code]](https://github.com/zillow/psmnet-layout/)
 
 Eder, M., Moulon, P., & Guan, L. (2019). Pano popups: Indoor 3D reconstruction with a plane-aware network. IEEE International Conference on 3D Vision (3DV). [[Paper]](https://arxiv.org/pdf/1907.00939.pdf?ref=https://githubhelp.com)
 
