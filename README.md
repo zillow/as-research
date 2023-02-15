@@ -68,34 +68,48 @@ Chau, H., Balaneshin, S., Liu, K., & Linda, O. (2020, December). Understanding t
 
 Chaudhari, H. A., Lin, S., & Linda, O. (2020). A General Framework for Fairness in Multistakeholder Recommendations. 3rd FAccTRec Workshop: Responsible Recommendation. Fourteenth ACM Conference on Recommender Systems. 2020. [[Paper]](https://arxiv.org/abs/2009.02423)
 
+Harrison, Z., Khazane, A.  (2022).  Taxonomic Recommendations of Real Estate Properties with Textual Attribute Information. Proceedings of the 16th ACM Conference on Recommender Systems (RecSys '22). [[Paper]](https://arxiv.org/pdf/2210.15142.pdf)
+
 Klevak, E., Lin, S., Martin, A., Linda, O., & Ringger, E. (2020). Out-Of-Bag Anomaly Detection. The Third International TrueFact Workshop: Making a Credible Web for Tomorrow. Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021 [[Paper]](https://arxiv.org/abs/2009.09358)
+
+Nichols, E., Xu, R., Thiagarajan, B., Kamath, S. (2022).  Volume Governing for Email and Push Messages. Proceedings of the 16th ACM Conference on Recommender Systems (RecSys '22). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3523227.3547399)
 
 Ringger, E., Chang, A., Fagnan, D., Kamath, S., Linda, O., Liu, W., ... & Zeghmi, T. (2018). Finding Your Home: Large-Scale Recommendation in a Vibrant Marketplace. ComplexRec 2018, 13. [[Paper]](http://toinebogers.com/workshops/complexrec2018/resources/proceedings.pdf#page=13)
 
 ## Blog Posts
-[Helping Home Shoppers Find a Home to Love Through Home Insights](https://www.zillow.com/tech/helping-shoppers-find-a-home-using-home-insights/)
+[Helping Users Discover Their Dream Homes Through Home Insights Collections (February 2023)](https://www.zillow.com/tech/helping-users-discover-their-dream-homes-through-home-insights-collections/)
 
-[Optimizing Elasticsearch for Low Latency, Real-Time Recommendations](https://www.zillow.com/tech/optimizing-elasticsearch/)
+[How Zillow Data Science Measures Business Outcomes with Bayesian Statistics (February 2023)](https://www.zillow.com/tech/how-zillow-data-science-measures-business-outcomes-with-bayesian-statistics/)
 
-[Improving Recommendation Quality by Tapping into Listing Text](https://www.zillow.com/tech/improve-quality-listing-text/)
+[Serving Machine Learning Models Efficiently at Scale at Zillow (November 2022)](https://www.zillow.com/tech/serving-machine-learning-models-efficiently-at-scale-at-zillow/)
 
-[Utilizing both Explicit & Implicit Signals to Power Home Recommendations](https://www.zillow.com/tech/utilizing-both-explicit-implicit-signals/)
+[Identifying High-Intent Buyers (November 2022)](https://www.zillow.com/tech/identifying-high-intent-buyers/)
 
-[Predicting Sparse Down-Funnel Events in Home Shopping with Transfer and Multi-target Learning](https://www.zillow.com/tech/predicting-sparse-down-funnel-events/)
+[Incorporating Listing Descriptions into the Zestimate (November 2022)](https://www.zillow.com/tech/incorporating-listing-descriptions-into-the-zestimate/)
 
-[Topic Modeling for  Real Estate Listing Descriptions](https://www.zillow.com/tech/topic-modeling/)
+[Helping Home Shoppers Find a Home to Love Through Home Insights (August 2022)](https://www.zillow.com/tech/helping-shoppers-find-a-home-using-home-insights/)
 
-[Home Embeddings for Similar Home Recommendations](https://www.zillow.com/tech/embedding-similar-home-recommendation/)
+[Optimizing Elasticsearch for Low Latency, Real-Time Recommendations (August 2022)](https://www.zillow.com/tech/optimizing-elasticsearch/)
 
-[Helping Buyers Explore the Real Estate Market via Personalized Recommendation Diversity](https://www.zillow.com/tech/personalized-recommendation-diversity/)
+[Improving Recommendation Quality by Tapping into Listing Text (February 2021)](https://www.zillow.com/tech/improve-quality-listing-text/)
 
-[#mlread: The Machine Learning Reading Group in Zillow AI](https://www.zillow.com/tech/mlread/)
+[Utilizing both Explicit & Implicit Signals to Power Home Recommendations (July 2020)](https://www.zillow.com/tech/utilizing-both-explicit-implicit-signals/)
 
-[Visualizing Matrix Factorization Using Self-Organizing Maps](https://www.zillow.com/tech/visualizing-matrix-factorization/)
+[Predicting Sparse Down-Funnel Events in Home Shopping with Transfer and Multi-target Learning (April 2020)](https://www.zillow.com/tech/predicting-sparse-down-funnel-events/)
 
-[Personalized Location Preference for Home Recommendations](https://www.zillow.com/tech/personalized-location-preference/)
+[Topic Modeling for Real Estate Listing Descriptions (June 2019)](https://www.zillow.com/tech/topic-modeling/)
 
-[Introduction to Recommendations at Zillow](https://www.zillow.com/tech/introduction-recommendations-zillow/)
+[Home Embeddings for Similar Home Recommendations (October 2018)](https://www.zillow.com/tech/embedding-similar-home-recommendation/)
+
+[Helping Buyers Explore the Real Estate Market via Personalized Recommendation Diversity (September 2018)](https://www.zillow.com/tech/personalized-recommendation-diversity/)
+
+[#mlread: The Machine Learning Reading Group in Zillow AI (July 2018)](https://www.zillow.com/tech/mlread/)
+
+[Visualizing Matrix Factorization Using Self-Organizing Maps (June 2018)](https://www.zillow.com/tech/visualizing-matrix-factorization/)
+
+[Personalized Location Preference for Home Recommendations (April 2018)](https://www.zillow.com/tech/personalized-location-preference/)
+
+[Introduction to Recommendations at Zillow (February 2017)](https://www.zillow.com/tech/introduction-recommendations-zillow/)
 
 
 
