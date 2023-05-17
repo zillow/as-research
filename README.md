@@ -111,5 +111,34 @@ Ringger, E., Chang, A., Fagnan, D., Kamath, S., Linda, O., Liu, W., ... & Zeghmi
 
 [Introduction to Recommendations at Zillow (February 2017)](https://www.zillow.com/tech/introduction-recommendations-zillow/)
 
+# Valuation
+## Featured Publications
+Krause, A., Martin, A., and Fix, M. (2020). Uncertainty in Automated Valuation Models: Error- vs Model-Based Approaches. *Journal of Property Research, 37(4), 308-339.*  [[Paper]](https://www.tandfonline.com/doi/full/10.1080/09599916.2020.1807587) [[Code]](https://github.com/andykrause/avmUncertainty)
+
+## Datasets
+**Home features and sales: Los Angeles, Orange and Ventura, California, up to 2017**
+
+* [Zillow Prize Round 1: Dataset](https://www.kaggle.com/competitions/zillow-prize-1/data)
+
+## Blog Posts
+[Incorporting Listing Descriptions into the Zestimate](https://www.zillow.com/tech/incorporating-listing-descriptions-into-the-zestimate/)
+
+[What's the Differences between a Machine and a Human Valuation](https://www.zillow.com/tech/human-and-machines-home-valuation/)
+
+[Zillow Prize, Round 1](https://www.zillow.com/tech/zillow-prize-big-reveal/)
+
+[Zillow Prize is Heating Up](https://www.zillow.com/tech/zillow-prize-heating/)
+
+[Advice from Kaggle on Entering ZillowPrize](https://www.zillow.com/tech/zillow-prize-seattle-event/)
+
+[Putting Accuracy in Context](https://www.zillow.com/tech/putting-accuracy-context/)
+
+[Balancing Latency and Accuracy in the Zestimate](https://www.zillow.com/tech/zestimate-latency-accuracy/)
+
+[Announcing the Zillow Prize](https://www.zillow.com/tech/announcing-zillow-prize/)
+
+[Home Value Estimates: Understanding Their Purposes And Evaluating Their Results](https://www.zillow.com/tech/home-value-estimates/)
+
+
 
 
