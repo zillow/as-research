@@ -5,17 +5,21 @@ Zillow applied science teams are actively publishing their work. The areas of in
 ## Datasets
 Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3D room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
 ## Featured Publications
-Lambert, J., Li, Y. Boyadzhiev, I., Wixson, L., Narayana, M., Hutchcroft, W., Hays, J., Dellaert, F., & Kang, S.B. (2022). SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas. European Conference on Computer Vision (ECCV).
+N. Nejatishahidin, W. Hutchcroft, M. Narayana, I. Boyadzhiev, Y. Li, N. Khosravan, J. Kosecka, and S.B. Kang (2023). Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation. OmniCV, CVPR Workshop. (Best Paper Award)
 
-Hutchcroft, W., Li, Y., Boyadzhiev, I., Wan, Z., Wang, H., & Kang, S.B. (2022). CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas. European Conference on Computer Vision (ECCV).
+P. Fayyazsanavi, Z. Wan, W. Hutchcroft, I. Boyadzhiev, Y. Li, J. Kosecka, and S.B. Kang (2023). U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation. CIVILS, CVPR Workshop.
 
-Zhi, T., Chen, B., Boyadzhiev, I., Kang, S. B., Hebert, M., & Narasimhan, S. G. (2022). Semantically Supervised Appearance Decomposition for Virtual Staging from a Single Panorama. ACM TOG and SIGGRAPH. [[Paper]](https://arxiv.org/abs/2205.13150) [[Code]](https://github.com/tiancheng-zhi/pano_decomp)
+J. Lambert, Y. Li, I. Boyadzhiev, L. Wixson, M. Narayana, W. Hutchcroft, J. Hays, F. Dellaert, & S.B. Kang (2022). SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas. European Conference on Computer Vision (ECCV).
 
-Yin, Y., Hutchcroft, W., Khosravan, N., Boyadzhiev, I., Fu, Y., & Kang, S. B. (2022). Generating Topological Structure of Floorplans from Room Attributes. ACM International Conference on Multimedia Retrieval (ICMR). [[Paper]](https://arxiv.org/pdf/2204.12338.pdf) [Code - Coming Soon]
+W. Hutchcroft, Y. Li, I. Boyadzhiev, Z. Wan, H. Wang, & S.B. Kang (2022). CoVisPose: Co-Visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360 Indoor Panoramas. European Conference on Computer Vision (ECCV).
 
-Min, Z., Khosravan, N., Bessinger, Z., Narayana, M., Kang, S. B., Dunn, E., & Boyadzhiev, I. (2022). LASER: LAtent SpacE Rendering for 2D Visual Localization. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (Oral). [[Paper]](https://arxiv.org/abs/2204.00157) [[Code]](https://github.com/zillow/laser)
+T. Zhi, B. Chen, I. Boyadzhiev, S.B. Kang, M. Hebert, & S.G. Narasimhan (2022). Semantically Supervised Appearance Decomposition for Virtual Staging from a Single Panorama. ACM TOG and SIGGRAPH. [[Paper]](https://arxiv.org/abs/2205.13150) [[Code]](https://github.com/tiancheng-zhi/pano_decomp)
 
-Wang, H., Hutchcroft, W., Li, Y., Wan, Z., Boyadzhiev, I., Tian, Y., & Kang, S. B. (2022). PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://arxiv.org/abs/2203.15965) [[Code]](https://github.com/zillow/psmnet-layout/)
+Y. Yin, W. Hutchcroft, N. Khosravan, I. Boyadzhiev, Y. Fu, & S.B. Kang (2022). Generating Topological Structure of Floorplans from Room Attributes. ACM International Conference on Multimedia Retrieval (ICMR). [[Paper]](https://arxiv.org/pdf/2204.12338.pdf) [Code - Coming Soon]
+
+Z. Min, N. Khosravan, Z. Bessinger, M. Narayana, S.B. Kang, E. Dunn, & I. Boyadzhiev (2022). LASER: LAtent SpacE Rendering for 2D Visual Localization. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). (Oral). [[Paper]](https://arxiv.org/abs/2204.00157) [[Code]](https://github.com/zillow/laser)
+
+H. Wang, W. Hutchcroft, Y. Li, Z. Wan, I. Boyadzhiev, Y. Tian, & S.B. Kang (2022). PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://arxiv.org/abs/2203.15965) [[Code]](https://github.com/zillow/psmnet-layout/)
 
 Eder, M., Moulon, P., & Guan, L. (2019). Pano popups: Indoor 3D reconstruction with a plane-aware network. IEEE International Conference on 3D Vision (3DV). [[Paper]](https://arxiv.org/pdf/1907.00939.pdf?ref=https://githubhelp.com)
 
