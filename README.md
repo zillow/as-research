@@ -117,6 +117,8 @@ Ringger, E., Chang, A., Fagnan, D., Kamath, S., Linda, O., Liu, W., ... & Zeghmi
 
 # Valuation
 ## Featured Publications
+Moghimi, F., Johnson, R. A., & Krause, A. (2023). Rethinking Real Estate Pricing with Transformer Graph Neural Networks (T-GNN). In 2023 International Conference on Machine Learning and Applications (ICMLA) (pp. 1405-1411). IEEE.  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10459879) [[Code]](https://github.com/FarazMoghimi/T-GNN-House-Pricing)
+
 Krause, A., Martin, A., and Fix, M. (2020). Uncertainty in Automated Valuation Models: Error- vs Model-Based Approaches. *Journal of Property Research, 37(4), 308-339.*  [[Paper]](https://www.tandfonline.com/doi/full/10.1080/09599916.2020.1807587) [[Code]](https://github.com/andykrause/avmUncertainty)
 
 ## Datasets
