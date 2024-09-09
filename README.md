@@ -5,6 +5,12 @@ Zillow applied science teams are actively publishing their work. The areas of in
 ## Datasets
 Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3D room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
 ## Featured Publications
+J. Chen, Z. Wan, M. Narayana, Y. Li, W. Hutchcroft, S. Velipasalar, and S.B. Kang (2024). BGDNet: Background-guided Indoor Panorama Depth Estimation. OmniCV, CVPR Workshop.
+
+T. Deb, L. Wang, Z. Bessinger, N. Khosravan, E. Penner, and S.B. Kang (2024). ZInD-Tell: Towards Translating Indoor Panoramas into Descriptions. 7th Multimodal Learning and Applications Workshop at CVPR. 
+
+T. Jing, L. Wang, N. Khosravan, Z. Wan, Z. Bessinger, Z. Ding, and S.B. Kang (2024). iBARLE: imBalance-Aware Room Layout Estimation. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV).
+
 N. Nejatishahidin, W. Hutchcroft, M. Narayana, I. Boyadzhiev, Y. Li, N. Khosravan, J. Kosecka, and S.B. Kang (2023). Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation. OmniCV, CVPR Workshop. (Best Paper Award)
 
 P. Fayyazsanavi, Z. Wan, W. Hutchcroft, I. Boyadzhiev, Y. Li, J. Kosecka, and S.B. Kang (2023). U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation. CIVILS, CVPR Workshop.
