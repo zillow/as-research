@@ -4,12 +4,8 @@ Zillow applied science teams are actively publishing their work. The areas of in
 # Computer Vision
 ## Datasets
 Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3D room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
+
 ## Featured Publications
-J. Chen, Z. Wan, M. Narayana, Y. Li, W. Hutchcroft, S. Velipasalar, and S.B. Kang (2024). BGDNet: Background-guided Indoor Panorama Depth Estimation. OmniCV, CVPR Workshop.
-
-T. Deb, L. Wang, Z. Bessinger, N. Khosravan, E. Penner, and S.B. Kang (2024). ZInD-Tell: Towards Translating Indoor Panoramas into Descriptions. 7th Multimodal Learning and Applications Workshop at CVPR. 
-
-T. Jing, L. Wang, N. Khosravan, Z. Wan, Z. Bessinger, Z. Ding, and S.B. Kang (2024). iBARLE: imBalance-Aware Room Layout Estimation. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV).
 
 N. Nejatishahidin, W. Hutchcroft, M. Narayana, I. Boyadzhiev, Y. Li, N. Khosravan, J. Kosecka, and S.B. Kang (2023). Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation. OmniCV, CVPR Workshop. (Best Paper Award)
 
@@ -87,6 +83,10 @@ Nichols, E., Xu, R., Thiagarajan, B., Kamath, S. (2022).  Volume Governing for E
 Ringger, E., Chang, A., Fagnan, D., Kamath, S., Linda, O., Liu, W., ... & Zeghmi, T. (2018). Finding Your Home: Large-Scale Recommendation in a Vibrant Marketplace. ComplexRec 2018, 13. [[Paper]](http://toinebogers.com/workshops/complexrec2018/resources/proceedings.pdf#page=13)
 
 ## Blog Posts
+[Using AI to Understand the Complexities and Pitfalls of Real Estate Data (April 2024)](https://www.zillow.com/tech/using-ai-to-understand-the-complexities-and-pitfalls-of-real-estate-data/)
+
+[Navigating Fair Housing Guardrails in LLMs (January 2024)](https://www.zillow.com/tech/navigating-fair-housing-guardrails-in-llms/)
+
 [Helping Users Discover Their Dream Homes Through Home Insights Collections (February 2023)](https://www.zillow.com/tech/helping-users-discover-their-dream-homes-through-home-insights-collections/)
 
 [How Zillow Data Science Measures Business Outcomes with Bayesian Statistics (February 2023)](https://www.zillow.com/tech/how-zillow-data-science-measures-business-outcomes-with-bayesian-statistics/)
@@ -133,6 +133,10 @@ Krause, A., Martin, A., and Fix, M. (2020). Uncertainty in Automated Valuation M
 * [Zillow Prize Round 1: Dataset](https://www.kaggle.com/competitions/zillow-prize-1/data)
 
 ## Blog Posts
+[Imputing Data for the Zestimate (November 2023)](https://www.zillow.com/tech/imputing-data-for-the-zestimate/)
+
+[Building the Neural Zestimate (February 2023)](https://www.zillow.com/tech/building-the-neural-zestimate/)
+
 [Incorporting Listing Descriptions into the Zestimate](https://www.zillow.com/tech/incorporating-listing-descriptions-into-the-zestimate/)
 
 [What's the Differences between a Machine and a Human Valuation](https://www.zillow.com/tech/human-and-machines-home-valuation/)
