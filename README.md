@@ -7,8 +7,6 @@ Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (
 
 ## Featured Publications
 
-Tonmoay Deb, Lichen Wang, Zachary Bessinger, Naji Khosravan, Eric Penner, Sing Bing Kang (2024). ZInD-Tell: Towards Translating Indoor Panoramas into Descriptions. CVPR Workshop. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Deb_ZInD-Tell_Towards_Translating_Indoor_Panoramas_into_Descriptions_CVPRW_2024_paper.pdf) 
-
 N. Nejatishahidin, W. Hutchcroft, M. Narayana, I. Boyadzhiev, Y. Li, N. Khosravan, J. Kosecka, and S.B. Kang (2023). Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation. OmniCV, CVPR Workshop. (Best Paper Award)
 
 P. Fayyazsanavi, Z. Wan, W. Hutchcroft, I. Boyadzhiev, Y. Li, J. Kosecka, and S.B. Kang (2023). U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation. CIVILS, CVPR Workshop.
