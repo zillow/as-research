@@ -7,6 +7,8 @@ Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (
 
 ## Featured Publications
 
+Delong Chen, Samuel Cahyawijaya · Jianfeng Liu · Baoyuan Wang · Pascale FUNG. Subobject-level Image Tokenization. ICML 2025.
+
 N. Nejatishahidin, W. Hutchcroft, M. Narayana, I. Boyadzhiev, Y. Li, N. Khosravan, J. Kosecka, and S.B. Kang (2023). Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation. OmniCV, CVPR Workshop. (Best Paper Award)
 
 P. Fayyazsanavi, Z. Wan, W. Hutchcroft, I. Boyadzhiev, Y. Li, J. Kosecka, and S.B. Kang (2023). U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation. CIVILS, CVPR Workshop.
