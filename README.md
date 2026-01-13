@@ -7,6 +7,12 @@ Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (
 
 ## Featured Publications
 
+Y. Zhuo, Z. Bessinger, L. Wang, N. Khosravan, B. Li, and S.B. Kang (2025). TFM^2: Training-Free Mask Matching for Open-Vocabulary Semantic Segmentation. Winter Conference on Applications of Computer Vision (WACV).
+
+T. Deb, L. Wang, Z. Bessinger, N. Khosravan, E. Penner, and S.B. Kang (2024). ZInD-Tell: Towards Translating Indoor Panoramas into Descriptions. CVPRW Multimodal Learning and Applications Workshop (MULA).
+
+T. Jing, L. Wang, N. Khosravan, Z. Wan, Z. Bessinger, Z. Ding, and S.B. Kang (2024). iBARLE: imBalance-Aware Room Layout Estimation. Winter Conference on Applications of Computer Vision (WACV).
+
 N. Nejatishahidin, W. Hutchcroft, M. Narayana, I. Boyadzhiev, Y. Li, N. Khosravan, J. Kosecka, and S.B. Kang (2023). Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation. OmniCV, CVPR Workshop. (Best Paper Award)
 
 P. Fayyazsanavi, Z. Wan, W. Hutchcroft, I. Boyadzhiev, Y. Li, J. Kosecka, and S.B. Kang (2023). U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation. CIVILS, CVPR Workshop.
