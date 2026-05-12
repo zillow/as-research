@@ -8,6 +8,8 @@ Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (
 ## Featured Publications
 Delong Chen, Samuel Cahyawijaya · Jianfeng Liu · Baoyuan Wang · Pascale Fung (2025). Subobject-level Image Tokenization. ICML 2025.
 
+Y. Zhuo, Z. Bessinger, L. Wang, N. Khosravan, B. Li, and S.B. Kang (2025). TFM^2: Training-Free Mask Matching for Open-Vocabulary Semantic Segmentation. Winter Conference on Applications of Computer Vision (WACV).
+
 J. Chen, Z. Wan, M. Narayana, Y. Li, W. Hutchcroft, S. Velipasalar, and S.B. Kang (2024). BGDNet: Background-guided Indoor Panorama Depth Estimation. OmniCV, CVPR Workshop.
 
 T. Deb, L. Wang, Z. Bessinger, N. Khosravan, E. Penner, and S.B. Kang (2024). ZInD-Tell: Towards Translating Indoor Panoramas into Descriptions. 7th Multimodal Learning and Applications Workshop at CVPR.
