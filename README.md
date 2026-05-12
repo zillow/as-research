@@ -12,6 +12,8 @@ T. Deb, L. Wang, Z. Bessinger, N. Khosravan, E. Penner, and S.B. Kang (2024). ZI
 
 T. Jing, L. Wang, N. Khosravan, Z. Wan, Z. Bessinger, Z. Ding, and S.B. Kang (2024). iBARLE: imBalance-Aware Room Layout Estimation. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV).
 
+Delong Chen, Samuel Cahyawijaya · Jianfeng Liu · Baoyuan Wang · Pascale FUNG. Subobject-level Image Tokenization. ICML 2025.
+
 N. Nejatishahidin, W. Hutchcroft, M. Narayana, I. Boyadzhiev, Y. Li, N. Khosravan, J. Kosecka, and S.B. Kang (2023). Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation. OmniCV, CVPR Workshop. (Best Paper Award)
 
 P. Fayyazsanavi, Z. Wan, W. Hutchcroft, I. Boyadzhiev, Y. Li, J. Kosecka, and S.B. Kang (2023). U2RLE: Uncertainty-Guided 2-Stage Room Layout Estimation. CIVILS, CVPR Workshop.
