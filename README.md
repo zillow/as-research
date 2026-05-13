@@ -7,6 +7,10 @@ Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (
 
 ## Featured Publications
 
+Liyuan Zhu,  Manjunath Narayana, Michal Stary,  Will Hutchcroft, Gordon Wetzstein, Iro Armeni (2026). GaussFusion: Improving 3D Reconstruction in the Wild with Geometry-Informed Video Generator. [[Paper]](https://arxiv.org/abs/2603.25053) [[Project]](http://research.zhuliyuan.net/projects/GaussFusion/)
+
+Jiangye Yuan, Gowri Kumar, Baoyuan Wang (2026). Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations. 3D-LLM/VLA Workshop at CVPR. [[Paper]](https://arxiv.org/abs/2603.08592)
+
 Haiming Zhang, Zhihao Yuan, Chaoda Zheng, Xu Yan, Baoyuan Wang, Guanbin Li (2025) GSmoothFace: Generalized Smooth Talking Face Generation via Fine Grained 3D Face Guidance. IEEE TVCG 2025. [[Paper]](https://arxiv.org/abs/2312.07385) [[Code]](https://github.com/zhanghm1995/GSmoothFace)
 
 Delong Chen, Samuel Cahyawijaya · Jianfeng Liu · Baoyuan Wang · Pascale Fung (2025). Subobject-level Image Tokenization. ICML 2025.
@@ -48,6 +52,15 @@ Izadinia, H., Shan, Q., & Seitz, S. M. (2017). Im2cad. In Proceedings of the IEE
 Ikehata, S., Boyadzhiev, I., Shan, Q., & Furukawa, Y. (2016). Panoramic structure from motion via geometric relationship detection. arXiv preprint arXiv:1612.01256. [[Report]](https://arxiv.org/abs/1612.01256)
 
 ## Blog Posts
+
+[Capturing SkyTour: How structured drone capture powers immersive 3D (Mar 2026)](https://www.zillow.com/news/how-structured-drone-capture-powers-immersive-3d-skytour/)
+
+[How Zillow made virtual tours feel even more like being there in person (Mar 2026)](https://www.zillow.com/news/how-zillow-made-virtual-tours-feel-even-more-like-being-there-in-person/)
+
+[Inside SkyTour’s AI engine: From drone footage to immersive 3D (Mar 2026)](https://www.zillow.com/news/skytour-ai-engine-drone-footage-immersive-3d/)
+
+[Bringing SkyTour to life: Designing an immersive 3D experience for home exteriors (Mar 2026)](https://www.zillow.com/news/designing-an-immersive-3d-experience-for-home-exteriors-skytour/)
+
 [How the Zillow Indoor Dataset Facilitates Better 3D tours and Advances the Science of Indoor Spaces](https://www.zillow.com/tech/zillow-indoor-dataset-facilitates-better-3d-tours/)
 
 [Using SageMaker for Machine Learning Model Deployment with Zillow Floor Plans](https://www.zillow.com/tech/sagemaker-ml-model-deployment-floor-plans/)
@@ -68,13 +81,13 @@ Ikehata, S., Boyadzhiev, I., Shan, Q., & Furukawa, Y. (2016). Panoramic structur
 
 [Deploying Deep Learning at Trulia](https://www.trulia.com/blog/tech/deploying-deep-learning-trulia/)
 
-# Agentic and conversational systems
+# Agentic , Conversational systems, Natural Language Processing (NLP) 
+## Featured Publications
+
+Mohamed Elaraby, Jyoti Prakash Maheswari (2025). SynClaimEval: A Framework for Evaluating the Utility of Synthetic Data in Long-Context Claim Verification. Eval4NLP. [[Paper]](https://aclanthology.org/2025.eval4nlp-1.8/)
+
 Nuo Chen, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li (2025). Compress to impress: Unleashing the potential of compressive memory in real-world long-term conversations. COLING  [[Paper]](https://aclanthology.org/2025.coling-main.51.pdf)[[Code]](https://github.com/nuochenpku/COMEDY) 
 
-
-
-# Document Understanding/Natural Language Processing (NLP)
-## Featured Publication
 Rahmani, A. R., Li, L., Vanover, B., Bertrand, C., & Rawat, S. (2022). Towards Semantic Search for Community Question Answering for Mortgage Officers. Knowledge Discovery and Data Mining (KDD) Workshop on Document Understanding 2021. [[Paper]](https://arxiv.org/abs/2203.06807) [[Video]](https://www.youtube.com/watch?v=1HMIsJhqFWE&t=90s)
 
 ## Videos
@@ -84,8 +97,9 @@ Rahmani, A. R., Li, L., Vanover, B., Bertrand, C., & Rawat, S. (2022). Towards S
 
 [Building Speech Analytics Using AWS AI Services](https://www.youtube.com/watch?v=twsGnp2X-aQ)
 
-# Recommendation Systems/Time Series
+# Search/ Recommendation Systems/Time Series
 ## Featured Publications
+Jeevan Thapa, Sinan Zhao, Koyoshi Shindo (2026). Evolving Mixture of Low-Rank Experts for Continual User Modeling. ECIR 2026. [[Paper]](https://dl.acm.org/doi/10.1007/978-3-032-21300-6_21)
 Chakraborty, S., Shah, S., Soltani, K., Swigart, A., Yang, L., & Buckingham, K. (2020, December). Building an automated and self-aware anomaly detection system. In 2020 IEEE International Conference on Big Data (Big Data) (pp. 1465-1475). IEEE. [[Paper]](https://arxiv.org/pdf/2011.05047.pdf) [[Code]](https://github.com/zillow/luminaire)
 
 Chau, H., Balaneshin, S., Liu, K., & Linda, O. (2020, December). Understanding the tradeoff between cost and quality of expert annotations for keyphrase extraction. In Proceedings of the 14th Linguistic Annotation Workshop (pp. 74-86). [[Paper]](https://aclanthology.org/2020.law-1.7.pdf)
@@ -101,6 +115,10 @@ Nichols, E., Xu, R., Thiagarajan, B., Kamath, S. (2022).  Volume Governing for E
 Ringger, E., Chang, A., Fagnan, D., Kamath, S., Linda, O., Liu, W., ... & Zeghmi, T. (2018). Finding Your Home: Large-Scale Recommendation in a Vibrant Marketplace. ComplexRec 2018, 13. [[Paper]](http://toinebogers.com/workshops/complexrec2018/resources/proceedings.pdf#page=13)
 
 ## Blog Posts
+[Learning the language of home buying: Zillow’s event-based foundational user behavior model (Apr 2026)](https://www.zillow.com/news/learning-the-language-of-home-buying-event-based-foundational-user-behavior-model/)
+
+[Leveraging Knowledge Graphs in Real Estate Search (Nov 2025)](https://www.zillow.com/news/leveraging-knowledge-graphs-in-real-estate-search/) 
+
 [Using AI to Understand the Complexities and Pitfalls of Real Estate Data (April 2024)](https://www.zillow.com/tech/using-ai-to-understand-the-complexities-and-pitfalls-of-real-estate-data/)
 
 [Navigating Fair Housing Guardrails in LLMs (January 2024)](https://www.zillow.com/tech/navigating-fair-housing-guardrails-in-llms/)
