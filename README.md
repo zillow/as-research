@@ -2,8 +2,6 @@
 Zillow applied science teams are actively publishing their work. The areas of investigation include computer vision, document understanding, natural language processing (NLP), and recommendation systems. This webpage lists our publications, and where code is available, links are provided (with separate licenses).
 
 # Computer Vision
-## Datasets
-Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3D room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
 
 ## Featured Publications
 
@@ -50,6 +48,9 @@ Izadinia, H., Shan, Q., & Seitz, S. M. (2017). Im2cad. In Proceedings of the IEE
 
 ## Technical Reports
 Ikehata, S., Boyadzhiev, I., Shan, Q., & Furukawa, Y. (2016). Panoramic structure from motion via geometric relationship detection. arXiv preprint arXiv:1612.01256. [[Report]](https://arxiv.org/abs/1612.01256)
+
+## Datasets
+Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3D room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
 
 ## Blog Posts
 
