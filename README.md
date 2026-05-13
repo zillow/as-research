@@ -6,6 +6,9 @@ Zillow applied science teams are actively publishing their work. The areas of in
 Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (2021). Zillow indoor dataset: Annotated floor plans with 360deg panoramas and 3D room layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper) [[Supplementary Material]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Cruz_Zillow_Indoor_Dataset_CVPR_2021_supplemental.pdf) [[Code]](https://github.com/zillow/zind)
 
 ## Featured Publications
+
+Haiming Zhang, Zhihao Yuan, Chaoda Zheng, Xu Yan, Baoyuan Wang, Guanbin Li (2025) GSmoothFace: Generalized Smooth Talking Face Generation via Fine Grained 3D Face Guidance. IEEE TVCG 2025. [[Paper]](https://arxiv.org/abs/2312.07385) [[Code]](https://github.com/zhanghm1995/GSmoothFace)
+
 Delong Chen, Samuel Cahyawijaya · Jianfeng Liu · Baoyuan Wang · Pascale Fung (2025). Subobject-level Image Tokenization. ICML 2025.
 
 Y. Zhuo, Z. Bessinger, L. Wang, N. Khosravan, B. Li, and S.B. Kang (2025). TFM^2: Training-Free Mask Matching for Open-Vocabulary Semantic Segmentation. Winter Conference on Applications of Computer Vision (WACV).
@@ -64,6 +67,11 @@ Ikehata, S., Boyadzhiev, I., Shan, Q., & Furukawa, Y. (2016). Panoramic structur
 [What Makes a Photo Click: Selecting Hero Images with Deep Learning](https://www.trulia.com/blog/tech/selecting-hero-images-with-deep-learning/)
 
 [Deploying Deep Learning at Trulia](https://www.trulia.com/blog/tech/deploying-deep-learning-trulia/)
+
+# Agentic and conversational systems
+Nuo Chen, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li (2025). Compress to impress: Unleashing the potential of compressive memory in real-world long-term conversations. COLING  [[Paper]](https://aclanthology.org/2025.coling-main.51.pdf)[[Code]](https://github.com/nuochenpku/COMEDY) 
+
+
 
 # Document Understanding/Natural Language Processing (NLP)
 ## Featured Publication
