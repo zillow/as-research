@@ -166,6 +166,7 @@ Ringger, E., Chang, A., Fagnan, D., Kamath, S., Linda, O., Liu, W., ... & Zeghmi
 # Valuation
 ## Featured Publications
 Faraz Moghimi, Andy Krause, Reid Johnson. (2025). Transformer Graph Neural Networks (T-GNNs) for Home Valuation. Book chapter: In Recent Advances in Deep Learning Applications, pp. 197-208. Chapman and Hall/CRC, 2025. [[Paper]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003570882-13/transformer-graph-neural-networks-gnns-home-valuation-faraz-moghimi-reid-johnson-andy-krause)
+
 Moghimi, F., Johnson, R. A., & Krause, A. (2023). Rethinking Real Estate Pricing with Transformer Graph Neural Networks (T-GNN). In 2023 International Conference on Machine Learning and Applications (ICMLA) (pp. 1405-1411). IEEE.  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10459879) [[Code]](https://github.com/FarazMoghimi/T-GNN-House-Pricing)
 
 Krause, A., Martin, A., and Fix, M. (2020). Uncertainty in Automated Valuation Models: Error- vs Model-Based Approaches. *Journal of Property Research, 37(4), 308-339.*  [[Paper]](https://www.tandfonline.com/doi/full/10.1080/09599916.2020.1807587) [[Code]](https://github.com/andykrause/avmUncertainty)
@@ -177,7 +178,8 @@ Krause, A., Martin, A., and Fix, M. (2020). Uncertainty in Automated Valuation M
 
 ## Blog Posts
 
-[How Zillow spent 20 years teaching AI to understand home value (2025)] (https://www.zillow.com/news/how-zillow-spent-20-years-teaching-ai-to-understand-home-value/)
+[How Zillow spent 20 years teaching AI to understand home value (2026)](https://www.zillow.com/news/how-zillow-spent-20-years-teaching-ai-to-understand-home-value/)
+
 [Imputing Data for the Zestimate (November 2023)](https://www.zillow.com/tech/imputing-data-for-the-zestimate/)
 
 [Building the Neural Zestimate (February 2023)](https://www.zillow.com/tech/building-the-neural-zestimate/)
