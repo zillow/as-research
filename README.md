@@ -85,6 +85,8 @@ Cruz, S., Hutchcroft, W., Li, Y., Khosravan, N., Boyadzhiev, I., & Kang, S. B. (
 # Agentic , Conversational systems, Natural Language Processing (NLP) 
 ## Featured Publications
 
+Lei Ding, Bin He, Chenguang Wang, Yang Liu (2026). ProActor: Timing-Aware Reinforcement Learning for Proactive Task Scheduling Agents.  ICLR 2026 AIWILD. [[Paper]](https://openreview.net/forum?id=k5BQhj9Qrz)
+
 Mohamed Elaraby, Jyoti Prakash Maheswari (2025). SynClaimEval: A Framework for Evaluating the Utility of Synthetic Data in Long-Context Claim Verification. Eval4NLP. [[Paper]](https://aclanthology.org/2025.eval4nlp-1.8/)
 
 Nuo Chen, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li (2025). Compress to impress: Unleashing the potential of compressive memory in real-world long-term conversations. COLING  [[Paper]](https://aclanthology.org/2025.coling-main.51.pdf)[[Code]](https://github.com/nuochenpku/COMEDY) 
@@ -101,6 +103,8 @@ Rahmani, A. R., Li, L., Vanover, B., Bertrand, C., & Rawat, S. (2022). Towards S
 # Search/ Recommendation Systems/Time Series
 ## Featured Publications
 Jeevan Thapa, Sinan Zhao, Koyoshi Shindo (2026). Evolving Mixture of Low-Rank Experts for Continual User Modeling. ECIR 2026. [[Paper]](https://dl.acm.org/doi/10.1007/978-3-032-21300-6_21)
+
+Kunal Mukherjee, Zachary Harrison, Saeid Balaneshin (2025, Feb) Z-REx: Human-Interpretable GNN Explanations for Real Estate Recommendations. KDD Workshop on Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI@KDD).[[Paper]](https://arxiv.org/abs/2503.18001)
 
 Chakraborty, S., Shah, S., Soltani, K., Swigart, A., Yang, L., & Buckingham, K. (2020, December). Building an automated and self-aware anomaly detection system. In 2020 IEEE International Conference on Big Data (Big Data) (pp. 1465-1475). IEEE. [[Paper]](https://arxiv.org/pdf/2011.05047.pdf) [[Code]](https://github.com/zillow/luminaire)
 
@@ -161,6 +165,8 @@ Ringger, E., Chang, A., Fagnan, D., Kamath, S., Linda, O., Liu, W., ... & Zeghmi
 
 # Valuation
 ## Featured Publications
+Faraz Moghimi, Andy Krause, Reid Johnson. (2025). Transformer Graph Neural Networks (T-GNNs) for Home Valuation. Book chapter: In Recent Advances in Deep Learning Applications, pp. 197-208. Chapman and Hall/CRC, 2025. [[Paper]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003570882-13/transformer-graph-neural-networks-gnns-home-valuation-faraz-moghimi-reid-johnson-andy-krause)
+
 Moghimi, F., Johnson, R. A., & Krause, A. (2023). Rethinking Real Estate Pricing with Transformer Graph Neural Networks (T-GNN). In 2023 International Conference on Machine Learning and Applications (ICMLA) (pp. 1405-1411). IEEE.  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10459879) [[Code]](https://github.com/FarazMoghimi/T-GNN-House-Pricing)
 
 Krause, A., Martin, A., and Fix, M. (2020). Uncertainty in Automated Valuation Models: Error- vs Model-Based Approaches. *Journal of Property Research, 37(4), 308-339.*  [[Paper]](https://www.tandfonline.com/doi/full/10.1080/09599916.2020.1807587) [[Code]](https://github.com/andykrause/avmUncertainty)
@@ -171,6 +177,9 @@ Krause, A., Martin, A., and Fix, M. (2020). Uncertainty in Automated Valuation M
 * [Zillow Prize Round 1: Dataset](https://www.kaggle.com/competitions/zillow-prize-1/data)
 
 ## Blog Posts
+
+[How Zillow spent 20 years teaching AI to understand home value (2026)](https://www.zillow.com/news/how-zillow-spent-20-years-teaching-ai-to-understand-home-value/)
+
 [Imputing Data for the Zestimate (November 2023)](https://www.zillow.com/tech/imputing-data-for-the-zestimate/)
 
 [Building the Neural Zestimate (February 2023)](https://www.zillow.com/tech/building-the-neural-zestimate/)
