@@ -5,7 +5,7 @@ Zillow applied science teams are actively publishing their work. The areas of in
 
 ## Featured Publications
 
-Liyuan Zhu,  Manjunath Narayana, Michal Stary,  Will Hutchcroft, Gordon Wetzstein, Iro Armeni (2026). GaussFusion: Improving 3D Reconstruction in the Wild with Geometry-Informed Video Generator. [[Paper]](https://arxiv.org/abs/2603.25053) [[Project]](http://research.zhuliyuan.net/projects/GaussFusion/)
+Liyuan Zhu,  Manjunath Narayana, Michal Stary,  Will Hutchcroft, Gordon Wetzstein, Iro Armeni (2026). GaussFusion: Improving 3D Reconstruction in the Wild with Geometry-Informed Video Generator. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) [[Paper]](https://arxiv.org/abs/2603.25053) [[Project]](http://research.zhuliyuan.net/projects/GaussFusion/)
 
 Jiangye Yuan, Gowri Kumar, Baoyuan Wang (2026). Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations. 3D-LLM/VLA Workshop at CVPR. [[Paper]](https://arxiv.org/abs/2603.08592)
 
